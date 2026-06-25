@@ -1,0 +1,2 @@
+- 3D print must be printed with ABS as the heat will damage pla/petg.
+- PLA and PETG are most suitable for the dryer as they are heated at 45°C to 50°C
